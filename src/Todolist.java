@@ -10,6 +10,14 @@ public class Todolist {
         this.topic = topic;
     }
 
+    public String getTopic() {
+        return topic;
+    }
+
+    public void setTopic(String topic) {
+        this.topic = topic;
+    }
+
     public void createTask() {
         Scanner sc = new Scanner(System.in);
         System.out.println("Please enter task name");
