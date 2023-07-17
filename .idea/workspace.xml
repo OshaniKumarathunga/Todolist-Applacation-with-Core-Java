@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3c0c9a7a-bb48-4637-9233-d9a0b842632b" name="Changes" comment="Updating todo list with new methods">
-      <change afterPath="$PROJECT_DIR$/src/Menu.java" afterDir="false" />
+    <list default="true" id="3c0c9a7a-bb48-4637-9233-d9a0b842632b" name="Changes" comment="Updating main method">
+      <change afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MorningRoutine.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Todolist.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Todolist.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,6 +39,20 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
   }
 }</component>
+  <component name="RunManager">
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="Todolist" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -50,7 +63,7 @@
       <updated>1689450732537</updated>
       <workItem from="1689450734221" duration="3547000" />
       <workItem from="1689513579660" duration="3879000" />
-      <workItem from="1689525947395" duration="27374000" />
+      <workItem from="1689525947395" duration="29790000" />
     </task>
     <task id="LOCAL-00001" summary="making morning todo list">
       <created>1689452890530</created>
@@ -73,7 +86,14 @@
       <option name="project" value="LOCAL" />
       <updated>1689605411721</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Updating main method">
+      <created>1689614507498</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1689614507498</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -94,6 +114,7 @@
     <MESSAGE value="making morning todo list" />
     <MESSAGE value="Updating todo list with HashMap" />
     <MESSAGE value="Updating todo list with new methods" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updating todo list with new methods" />
+    <MESSAGE value="Updating main method" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updating main method" />
   </component>
 </project>

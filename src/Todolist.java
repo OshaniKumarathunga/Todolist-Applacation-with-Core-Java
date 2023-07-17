@@ -18,6 +18,14 @@ public class Todolist {
         this.topic = topic;
     }
 
+    public List<Task> getTasks() {
+        return tasks;
+    }
+
+    public void setTasks(List<Task> tasks) {
+        this.tasks = tasks;
+    }
+
     public void createTask() {
         Scanner sc = new Scanner(System.in);
         System.out.println("Please enter task name");
@@ -111,6 +119,5 @@ public class Todolist {
         }
         return false;
     }
-
 
 }
